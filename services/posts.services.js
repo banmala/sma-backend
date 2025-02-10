@@ -17,7 +17,26 @@ const createPosts = async (req) => {
 }
 
 const listPosts = async (req) => {
+    const searchParams = req.query.search
     const result = await prisma.posts.findMany({
+        where: {
+            OR: [
+                {
+                    content: {
+                        contains: searchParams,
+                        mode: 'insensitive'
+                    }
+                },
+                {
+                    User: {
+                        fullName: {
+                            contains: searchParams,
+                            mode: 'insensitive'
+                        }
+                    }
+                }
+            ]
+        },
         include: {
             User: true
         }
