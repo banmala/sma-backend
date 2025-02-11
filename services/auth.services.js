@@ -32,7 +32,15 @@ const login = async (req) => {
 const register = async (req) => {
     let { email, password, fullName, gender } = req.body
     password = await bcrypt.hash(password, 10);
-    console.log("adfasdf: ", email, password, fullName, gender)
+    //
+    const checkUserExist = await prisma.user.findFirst({
+        where: {
+            email: email
+        }
+    })
+    if (checkUserExist) {
+        return ("User of given email already exist");
+    }
     const user = await prisma.user.create({
         data: {
             email,
@@ -41,7 +49,6 @@ const register = async (req) => {
             gender
         }
     })
-    console.log("user: ", user)
     const token = jwt.sign({
         expiresIn: "1d",
         data: user
