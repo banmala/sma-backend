@@ -14,11 +14,11 @@ const login = async (req) => {
         },
     })
     if (!user) {
-        return ("User of given email doesnot exists!");
+        return ({ message: "User of given email doesnot exists!" });
     }
     bcrypt.compare(password, user.password, function (err, result) {
         if (err) {
-            return ("Password doesnot match!");
+            return ({ message: "Password doesnot match!" });
         }
     });
     const token = jwt.sign({

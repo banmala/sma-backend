@@ -7,8 +7,8 @@ const prisma = new PrismaClient()
 const eventEmitter = new EventEmitter()
 
 eventEmitter.on("greet", (message) => {
-    console.log("Hello! Good Morning!");
-    console.log("Message: ", message)
+    // console.log("Hello! Good Morning!");
+    // console.log("Message: ", message)
 })
 
 

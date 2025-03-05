@@ -1,0 +1,54 @@
+KCE080BCT001    Aayush Parajuli             
+KCE080BCT003    Abiral Sujakhu              
+KCE080BCT004    Anjana Silinchhe Shrestha               
+KCE080BCT008    Dipesh Singh                
+KCE080BCT009    Dipshikha khadka                
+KCE080BCT012    Laxman Twayana              
+KCE080BCT013    Manee Das Shrestha              
+KCE080BCT015    Manjeel Chalise             
+KCE080BCT016    Niraj Nath              
+kce080bct018    piyush rokaya               
+KCE080BCT020    Pradeshika Karki                
+KCE080BCT021    Pradipta Joshi              
+KCE080BCT022    Prajin Manandhar                
+KCE080BCT026    Rajesh Chalise              
+KCE080BCT028    Reeshav Khyaju              
+KCE080BCT030    Resima Budhathoki               
+kce080bct033    Rohan Singh             
+KCE080BCT035    Sajan Sahikarmi             
+KCE080BCT036    Shailaj Dahal               
+KCE080BCT038    Shreya Khatri               
+KCE080BCT041    Sulachhen Karmacharya               
+KCE080BCT042    Supriya Poudel              
+KCE080BCT043    Sushma Shrestha             
+KCE080BCT045    Swarnim Shrestha                
+KCE080BCT046    Unik Dhungel      
+
+
+
+KCE079BCT001        Aaditya Joshi
+KCE079BCT005        Aayushya Shrestha
+KCE079BCT007        Abhinav Joshi
+KCE079BCT010        Anjila Dangol
+KCE079BCT009        Akriti Adhikari
+KCE079BCT011        Anuj Khatakho
+KCE079BCT018        Bhumika Sayanju
+KCE079BCT019        Binisha Parajuli
+KCE079BCT021        Chandish Sipai
+KCE079BCT022        DHAN BAHADUR KHATTRI
+KCE079BCT023        Dikshyanta Shrestha
+Kce079bct025        Nisal Gainju
+KCE079BCT026        Pranisha Shrestha
+KCE079BCT027        Pranjal Giri
+Kce079bct028        Prasanna Raj Neupane
+KCE079BCT029        Prashamshya Banepali
+KCE079BCT032        Ritik Basukala
+KCE079BCT033        Ritik Deshemaru
+KCE079BCT036        Saman Bilas Pant
+KCE079BCT041        Simran Lage
+KCE079BCT042        Sneha Chaulagain
+KCE079BCT043        Subidha Manandhar
+KCE079BCT044        Sudip Ghimire
+KCE079BCT045        Sujal Shrestha
+kce079bct046        Sujan Suwal
+KCE079BCT047        Sunayan Duwal
